@@ -65,4 +65,4 @@ This project is released under **The Unlicense**, meaning it is in the **public 
 
 ## 💡 Author
 
-Developed by **[Nwajei Olufemi]** 🚀
+Developed by **Nwajei Olufemi** 🚀
